@@ -1,4 +1,0 @@
-1010,Muresan Cosmina,flu
-12,bibi,bibi
-1,d,d
-100,ana,flu

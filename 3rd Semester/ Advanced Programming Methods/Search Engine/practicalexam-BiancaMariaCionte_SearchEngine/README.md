@@ -1,1 +1,0 @@
-# APM - Practical Examination Repository
