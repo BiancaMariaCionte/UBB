@@ -1,0 +1,4 @@
+﻿  complex_number.cpp
+C:\Users\Bianca\Desktop\OOP\Lab3\laboratory3-biancacionte\Laboratory3\complex_number.cpp(80,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Bianca\Desktop\OOP\Lab3\laboratory3-biancacionte\Laboratory3\complex_number.cpp(87,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Laboratory3.vcxproj -> C:\Users\Bianca\Desktop\OOP\Lab3\laboratory3-biancacionte\x64\Debug\Laboratory3.exe
