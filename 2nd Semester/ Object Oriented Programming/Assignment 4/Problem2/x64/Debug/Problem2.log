@@ -1,0 +1,6 @@
+﻿  BigInteger.cpp
+C:\Users\Bianca\Desktop\OOP\Lab4\ooplaboratory4-biancacionte\Problem2\BigInteger.cpp(19,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  bigint_test.cpp
+  main.cpp
+  Generating Code...
+  Problem2.vcxproj -> C:\Users\Bianca\Desktop\OOP\Lab4\ooplaboratory4-biancacionte\x64\Debug\Problem2.exe
