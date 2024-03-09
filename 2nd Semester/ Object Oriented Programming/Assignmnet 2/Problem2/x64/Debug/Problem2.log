@@ -1,9 +1,0 @@
-﻿  main.c
-  tests.c
-C:\Users\Bianca\Desktop\OOP\Lab2\ooplaboratory2-biancacionte\Problem2\tests.c(37,15): warning C4090: 'initializing': different 'const' qualifiers
-C:\Users\Bianca\Desktop\OOP\Lab2\ooplaboratory2-biancacionte\Problem2\tests.c(52,15): warning C4090: 'initializing': different 'const' qualifiers
-C:\Users\Bianca\Desktop\OOP\Lab2\ooplaboratory2-biancacionte\Problem2\tests.c(67,15): warning C4090: 'initializing': different 'const' qualifiers
-C:\Users\Bianca\Desktop\OOP\Lab2\ooplaboratory2-biancacionte\Problem2\tests.c(82,15): warning C4090: 'initializing': different 'const' qualifiers
-C:\Users\Bianca\Desktop\OOP\Lab2\ooplaboratory2-biancacionte\Problem2\tests.c(97,15): warning C4090: 'initializing': different 'const' qualifiers
-  Generating Code...
-  Problem2.vcxproj -> C:\Users\Bianca\Desktop\OOP\Lab2\ooplaboratory2-biancacionte\x64\Debug\Problem2.exe

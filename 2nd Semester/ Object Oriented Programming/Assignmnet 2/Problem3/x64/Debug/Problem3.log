@@ -1,8 +1,0 @@
-﻿  main.c
-C:\Users\Bianca\Desktop\OOP\Lab2\ooplaboratory2-biancacionte\Problem3\main.c(21,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Bianca\Desktop\OOP\Lab2\ooplaboratory2-biancacionte\Problem3\main.c(27,32): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
-C:\Users\Bianca\Desktop\OOP\Lab2\ooplaboratory2-biancacionte\Problem3\main.c(28,40): warning C4090: '=': different 'const' qualifiers
-C:\Users\Bianca\Desktop\OOP\Lab2\ooplaboratory2-biancacionte\Problem3\main.c(24,11): warning C4090: 'initializing': different 'const' qualifiers
-  tests.c
-  Generating Code...
-  Problem3.vcxproj -> C:\Users\Bianca\Desktop\OOP\Lab2\ooplaboratory2-biancacionte\x64\Debug\Problem3.exe
